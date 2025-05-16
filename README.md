@@ -16,7 +16,7 @@
 
 ## 💻 インストール方法
 
-1. このリポジトリの [`Copii_Extension.zip`](https://github.com/ユーザー名/copii-extension/raw/main/Copii_Extension.zip) をダウンロード
+1. このリポジトリの [`Copii_Extension.zip`](https://github.com/DaitaikoredeOK/copii-extension/raw/main/Copii_Extension.zip) をダウンロード
 2. ZIPを展開（右クリック → 解凍）
 3. Chromeで `chrome://extensions/` にアクセス
 4. 右上の「デベロッパーモード」をONにする
