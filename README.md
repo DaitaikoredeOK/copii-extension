@@ -1,2 +1,43 @@
-# copii-extension
-Lightweight Chrome extension for instant copy by text selection.
+# Copii
+
+📑 **Copii** は、選択したテキストの近くに自動でコピー用ボタンを表示する、超軽量Chrome拡張です。  
+クリックひとつで ✅ コピー完了。シンプルで邪魔にならないミニマル設計が特徴です。
+
+---
+
+## 🔧 主な機能
+
+- テキストを選択すると自動で📑ボタンが表示される
+- ワンクリックで ✅ コピーされる
+- UIは絵文字1個だけの軽量表示（透明背景）
+- ペースト機能や余計なUIは一切なし
+
+---
+
+## 💻 インストール方法
+
+1. このリポジトリの [`Copii_Extension.zip`](https://github.com/あなたのユーザー名/copii-extension/raw/main/Copii_Extension.zip) をダウンロード
+2. ZIPを展開（右クリック → 解凍）
+3. Chromeで `chrome://extensions/` にアクセス
+4. 右上の「デベロッパーモード」をONにする
+5. 「パッケージ化されていない拡張機能を読み込む」ボタンから、展開したフォルダを選択
+
+---
+
+## 📝 仕様・補足
+
+- 拡張機能は全ページで動作します（`<all_urls>`許可）
+- コピー操作は `navigator.clipboard.writeText()` によって行われます
+- 表示バブルは、テキストを選択している間は自動で消えません
+
+---
+
+## 🔓 ライセンス
+
+MIT License（予定）
+
+---
+
+## ✉️ お問い合わせ
+
+不具合・改善要望などは [X（@1PMbbb）](https://x.com/1PMbbb) または Issue へお気軽にどうぞ。
