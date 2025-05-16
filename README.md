@@ -16,7 +16,7 @@
 
 ## 💻 インストール方法
 
-1. このリポジトリの [`Copii_Extension.zip`](https://github.com/あなたのユーザー名/copii-extension/raw/main/Copii_Extension.zip) をダウンロード
+1. このリポジトリの [`Copii_Extension.zip`](https://github.com/ユーザー名/copii-extension/raw/main/Copii_Extension.zip) をダウンロード
 2. ZIPを展開（右クリック → 解凍）
 3. Chromeで `chrome://extensions/` にアクセス
 4. 右上の「デベロッパーモード」をONにする
@@ -24,19 +24,14 @@
 
 ---
 
-## 📝 仕様・補足
+## 🔓 利用許可
 
-- 拡張機能は全ページで動作します（`<all_urls>`許可）
-- コピー操作は `navigator.clipboard.writeText()` によって行われます
-- 表示バブルは、テキストを選択している間は自動で消えません
-
----
-
-🔓 利用許可・ライセンス
-この拡張機能「Copii」は、商用・非商用を問わず、誰でも自由に使用・改変・再配布して構いません。
+この拡張機能「Copii」は、商用・非商用を問わず、  
+誰でも自由に使用・改変・再配布して構いません。  
 ライセンス表記や連絡は不要です。ご自由にどうぞ。
+
 ---
 
 ## ✉️ お問い合わせ
 
-不具合・改善要望などは [X（@1PMbbb）](https://x.com/1PMbbb) または Issue へお気軽にどうぞ。
+不具合・改善要望などは [X（@1PMbbb）](https://x.com/1PMbbb) または GitHub Issues までお気軽にどうぞ。
